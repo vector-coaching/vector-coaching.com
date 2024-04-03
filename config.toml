@@ -30,17 +30,17 @@ pluralizelisttitles = false
     url        = "/about"
     weight     = 4
 
-[[menu.main]]
-    name       = "About Us"
-    url        = ""
-    weight     = 1
-    parent     = "menu.about"
+# [[menu.main]]
+#     name       = "About Us"
+#     url        = ""
+#     weight     = 1
+#     parent     = "menu.about"
 
-[[menu.main]]
-    name       = "Our Team"
-    url        = ""
-    weight     = 2
-    parent     = "menu.about"
+# [[menu.main]]
+#     name       = "Our Team"
+#     url        = ""
+#     weight     = 2
+#     parent     = "menu.about"
 
 # Serives Menu
 [[menu.main]]
