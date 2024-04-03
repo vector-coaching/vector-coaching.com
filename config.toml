@@ -313,9 +313,9 @@ pluralizelisttitles = false
 
 # FAQ
 [[menu.main]]
-    name       = "FAQ"
-    identifier = "menu.faq"
-    url        = "/faq/"
+    name       = "Freebies"
+    identifier = "menu.freebies"
+    url        = "/freebies/"
     weight     = 6
 
 [[menu.main]]
